@@ -1,4 +1,25 @@
-# TechAcademy Backend API
+# Tech Academy - Backend API
+
+This is the RESTful API for the Tech Academy MERN stack project, built using **Node.js, Express, and MongoDB**.
+
+## 🚀 Features
+* Secure API Endpoints
+* MongoDB Integration with Mongoose
+* CORS Enabled for Frontend Communication
+* Environment Variable Configuration
+
+## 🛠️ Tech Stack
+* **Runtime:** Node.js
+* **Framework:** Express.js
+* **Database:** MongoDB Atlas
+* **Deployment:** Render (Web Service)
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Shreya7-Bhujbal/MernStack-Tech-Academy-Backend.git](https://github.com/Shreya7-Bhujbal/MernStack-Tech-Academy-Backend.git)
+
 
 ## Setup
 
